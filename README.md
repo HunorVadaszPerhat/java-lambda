@@ -74,3 +74,17 @@
    * returns a composed predicate that represents a short-circuiting logical OR of this predicate and another.
    * default DoublePredicate or(DoublePredicate other)
    *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/double_predicate/double_predicate_or)
+
+## BiPredicate
+ * test:
+   * evaluates this predicate on the given arguments
+   * boolean test(T t,  U u)
+ * and:
+   * returns a composed predicate that represents a short-circuiting logical AND of this predicate and another
+   * default BiPredicate<T,U> and(BiPredicate<? super T,? super U> other)
+ * negate:
+   * returns a predicate that represents the logical negation of this predicate
+   * default BiPredicate<T,U> negate()
+ * or:
+   * returns a composed predicate that represents a short-circuiting logical OR of this predicate and another
+   * default BiPredicate<T,U> or(BiPredicate<? super T,? super U> other)
