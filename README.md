@@ -1,4 +1,4 @@
-# JAVA - lambda
+# JAVA - Predicate
 ## Predicate
  * test: 
    * evaluates this predicate on the given argument
@@ -56,3 +56,17 @@
    * returns a composed predicate that represents a short-circuiting logical OR of this predicate and another
    * default LongPredicate or(LongPredicate other)
    *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/int_predicate/int_predicate_or)
+
+## DoublePredicate
+ * test:
+   * evaluates this predicate on the given argument
+   * boolean test(double value)
+ * and:
+   * returns a composed predicate that represents a short-circuiting logical AND of this predicate and another
+   * default DoublePredicate and(DoublePredicate other)
+ * negate:
+   * represents the logical negation of this predicate
+   * default DoublePredicate negate()
+ * or:
+   * returns a composed predicate that represents a short-circuiting logical OR of this predicate and another.
+   * default DoublePredicate or(DoublePredicate other)

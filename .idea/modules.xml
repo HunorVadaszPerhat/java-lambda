@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/double_predicate/double_predicate.iml" filepath="$PROJECT_DIR$/double_predicate/double_predicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/double_predicate/double_predicate_and/double_predicate_and.iml" filepath="$PROJECT_DIR$/double_predicate/double_predicate_and/double_predicate_and.iml" />
+      <module fileurl="file://$PROJECT_DIR$/double_predicate/double_predicate_negate/double_predicate_negate.iml" filepath="$PROJECT_DIR$/double_predicate/double_predicate_negate/double_predicate_negate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/double_predicate/double_predicate_or/double_predicate_or.iml" filepath="$PROJECT_DIR$/double_predicate/double_predicate_or/double_predicate_or.iml" />
+      <module fileurl="file://$PROJECT_DIR$/double_predicate/double_predicate_test/double_predicate_test.iml" filepath="$PROJECT_DIR$/double_predicate/double_predicate_test/double_predicate_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/int_predicate/int_predicate.iml" filepath="$PROJECT_DIR$/int_predicate/int_predicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/int_predicate/int_predicate_and/int_predicate_and.iml" filepath="$PROJECT_DIR$/int_predicate/int_predicate_and/int_predicate_and.iml" />
       <module fileurl="file://$PROJECT_DIR$/int_predicate/int_predicate_negate/int_predicate_negate.iml" filepath="$PROJECT_DIR$/int_predicate/int_predicate_negate/int_predicate_negate.iml" />
