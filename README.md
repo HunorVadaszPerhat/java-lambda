@@ -45,9 +45,9 @@
    * boolean test(long value)
    *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/long_predicate/long_predicate_test)
   * and:
-   * returns a composed predicate that represents a short-circuiting logical AND of this predicate and another
-   * default LongPredicate and(LongPredicate other)
-   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/long_predicate/long_predicate_and)
+    * returns a composed predicate that represents a short-circuiting logical AND of this predicate and another
+    * default LongPredicate and(LongPredicate other)
+    *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/long_predicate/long_predicate_and)
  * negate:
    * returns a predicate that represents the logical negation of this predicate
    * default LongPredicate negate()
