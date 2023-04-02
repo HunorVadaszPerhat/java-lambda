@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java-lambda.iml" filepath="$PROJECT_DIR$/.idea/java-lambda.iml" />
-      <module fileurl="file://$PROJECT_DIR$/predicate/predicate.iml" filepath="$PROJECT_DIR$/predicate/predicate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/predicate/predicate_test/predicate_test.iml" filepath="$PROJECT_DIR$/predicate/predicate_test/predicate_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/predicate_and/predicate_and.iml" filepath="$PROJECT_DIR$/predicate_and/predicate_and.iml" />
+      <module fileurl="file://$PROJECT_DIR$/predicate_negate/predicate_negate.iml" filepath="$PROJECT_DIR$/predicate_negate/predicate_negate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/predicate_test/predicate_test.iml" filepath="$PROJECT_DIR$/predicate_test/predicate_test.iml" />
     </modules>
   </component>
 </project>
