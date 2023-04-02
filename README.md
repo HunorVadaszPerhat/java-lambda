@@ -1,10 +1,9 @@
 # java-lambda
-
 # Predicate
  * test: 
    * evaluates this predicate on the given argument
    * boolean test(T t)
-   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/predicate/predicate_tes)
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/predicate/predicate_test)
  * and:
    * returns a composed predicate that represents a short-circuiting logical AND of this predicate and another
    * default Predicate<T> and(Predicate<? super T> other)
