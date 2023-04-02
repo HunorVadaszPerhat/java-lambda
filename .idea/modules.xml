@@ -8,6 +8,11 @@
       <module fileurl="file://$PROJECT_DIR$/int_predicate/int_predicate_or/int_predicate_or.iml" filepath="$PROJECT_DIR$/int_predicate/int_predicate_or/int_predicate_or.iml" />
       <module fileurl="file://$PROJECT_DIR$/int_predicate/int_predicate_test/int_predicate_test.iml" filepath="$PROJECT_DIR$/int_predicate/int_predicate_test/int_predicate_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-lambda.iml" filepath="$PROJECT_DIR$/.idea/java-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/long_predicate/long_predicate.iml" filepath="$PROJECT_DIR$/long_predicate/long_predicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/long_predicate/long_predicate_and/long_predicate_and.iml" filepath="$PROJECT_DIR$/long_predicate/long_predicate_and/long_predicate_and.iml" />
+      <module fileurl="file://$PROJECT_DIR$/long_predicate/long_predicate_negate/long_predicate_negate.iml" filepath="$PROJECT_DIR$/long_predicate/long_predicate_negate/long_predicate_negate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/long_predicate/long_predicate_or/long_predicate_or.iml" filepath="$PROJECT_DIR$/long_predicate/long_predicate_or/long_predicate_or.iml" />
+      <module fileurl="file://$PROJECT_DIR$/long_predicate/long_predicate_test/long_predicate_test.iml" filepath="$PROJECT_DIR$/long_predicate/long_predicate_test/long_predicate_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/predicate/predicate.iml" filepath="$PROJECT_DIR$/predicate/predicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/predicate/predicate_and/predicate_and.iml" filepath="$PROJECT_DIR$/predicate/predicate_and/predicate_and.iml" />
       <module fileurl="file://$PROJECT_DIR$/predicate/predicate_isequal/predicate_isequal.iml" filepath="$PROJECT_DIR$/predicate/predicate_isequal/predicate_isequal.iml" />

@@ -21,7 +21,7 @@
    * static <T> Predicate<T> isEqual(Object targetRef)
    *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/predicate/predicate_isequal)
  
-# IntPredicate:
+## IntPredicate:
  * test: 
    * evaluates this predicate on the given argument
    * boolean test(int value)
@@ -38,3 +38,17 @@
    * represents a short-circuiting logical OR of this predicate and another
    * default IntPredicate or(IntPredicate other)
    *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/int_predicate/int_predicate_or)
+
+## LongPredicate
+ * test:
+   * evaluates this predicate on the given argument
+   * boolean test(long value)
+ * and:
+   * returns a composed predicate that represents a short-circuiting logical AND of this predicate and another
+   * default LongPredicate and(LongPredicate other)
+ * negate:
+   * returns a predicate that represents the logical negation of this predicate
+   * default LongPredicate negate()
+ * or:
+   * returns a composed predicate that represents a short-circuiting logical OR of this predicate and another
+   * default LongPredicate or(LongPredicate other)
