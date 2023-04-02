@@ -25,11 +25,11 @@
  * test: 
    * evaluates this predicate on the given argument
    * boolean test(int value)
-   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/int_predicate/int_predicate_test)
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/long_predicate/long_predicate_test)
  * and:
    * returns a composed predicate that represents a short-circuiting logical AND of this predicate and another
    * default IntPredicate and(IntPredicate other)
-   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/int_predicate/int_predicate_and)
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/long_predicate/long_predicate_and)
  * negate:
    * returns a predicate that represents the logical negation of this predicate
    * default IntPredicate negate()
@@ -43,12 +43,16 @@
  * test:
    * evaluates this predicate on the given argument
    * boolean test(long value)
- * and:
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/long_predicate/long_predicate_test)
+  * and:
    * returns a composed predicate that represents a short-circuiting logical AND of this predicate and another
    * default LongPredicate and(LongPredicate other)
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/long_predicate/long_predicate_and)
  * negate:
    * returns a predicate that represents the logical negation of this predicate
    * default LongPredicate negate()
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/long_predicate/long_predicate_negate)
  * or:
    * returns a composed predicate that represents a short-circuiting logical OR of this predicate and another
    * default LongPredicate or(LongPredicate other)
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/int_predicate/int_predicate_or)
