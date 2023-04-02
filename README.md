@@ -25,12 +25,16 @@
  * test: 
    * evaluates this predicate on the given argument
    * boolean test(int value)
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/int_predicate/int_predicate_test)
  * and:
    * returns a composed predicate that represents a short-circuiting logical AND of this predicate and another
    * default IntPredicate and(IntPredicate other)
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/int_predicate/int_predicate_and)
  * negate:
    * returns a predicate that represents the logical negation of this predicate
    * default IntPredicate negate()
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/int_predicate/int_predicate_negate)
  * or:
    * represents a short-circuiting logical OR of this predicate and another
    * default IntPredicate or(IntPredicate other)
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/int_predicate/int_predicate_or)
