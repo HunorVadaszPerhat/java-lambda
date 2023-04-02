@@ -79,12 +79,16 @@
  * test:
    * evaluates this predicate on the given arguments
    * boolean test(T t,  U u)
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/bi_predicate/bi_predicate_test)
  * and:
    * returns a composed predicate that represents a short-circuiting logical AND of this predicate and another
    * default BiPredicate<T,U> and(BiPredicate<? super T,? super U> other)
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/bi_predicate/bi_predicate_and)
  * negate:
    * returns a predicate that represents the logical negation of this predicate
    * default BiPredicate<T,U> negate()
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/bi_predicate/bi_predicate_negate)
  * or:
    * returns a composed predicate that represents a short-circuiting logical OR of this predicate and another
    * default BiPredicate<T,U> or(BiPredicate<? super T,? super U> other)
+   *  [link](https://github.com/HunorVadaszPerhat/java-predicate/tree/main/bi_predicate/bi_predicate_or)
