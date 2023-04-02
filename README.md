@@ -1,5 +1,5 @@
-# java-lambda
-# Predicate
+# JAVA - lambda
+## Predicate
  * test: 
    * evaluates this predicate on the given argument
    * boolean test(T t)
